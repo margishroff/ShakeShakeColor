@@ -16,6 +16,8 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
+/* Margi - Testing Accelerator Sensor */
+
 public class MainActivity extends Activity implements SensorEventListener{
 
 	private SensorManager sensorManager;
